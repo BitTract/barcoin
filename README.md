@@ -1,3 +1,3 @@
 LibertyCoin (LBC)
 
-Blah, blah, blah.
+The easy and affordable college currency!
