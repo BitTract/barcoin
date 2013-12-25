@@ -1,3 +1,3 @@
-FooCoin (FOO)
+LibertyCoin (LBC)
 
 Blah, blah, blah.
